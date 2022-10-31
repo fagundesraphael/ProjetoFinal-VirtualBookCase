@@ -1,0 +1,88 @@
+.account-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.h1-radio {
+  color: #212940;
+  font-size: 32px;
+}
+
+.span-radio {
+  color: #5c6273;
+  font-size: 16px;
+}
+
+.account-container section.form-create {
+  width: 100%;
+  max-width: 350px;
+}
+
+.account-container section.form-create img {
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.account-container section.form-create form {
+  font-size: 20px;
+  margin-bottom: 24px;
+  text-align: center;
+}
+
+.container-radio {
+  display: block;
+  position: relative;
+  display: inline;
+}
+
+.container-radio ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.ul .li {
+  color: #5464bf;
+  display: block;
+  float: left;
+  padding-top: 10px;
+}
+
+.ul .li input[type="radio"] {
+  border: 0px;
+  height: 2rem;
+  position: absolute;
+  visibility: hidden;
+}
+
+.ul .li label {
+  font-size: 16px;
+  font-weight: 300;
+  padding-left: 80px;
+
+  cursor: pointer;
+}
+
+.ul .li:hover label {
+  color: #350385;
+}
+
+.ul .li .check::before {
+  border-radius: 100%;
+  margin: auto;
+}
+
+input[type="radio"]:checked ~ .check::before {
+  background: #0dff92;
+}
+
+input[type="radio"]:checked ~ label {
+  color: #0dff92;
+}

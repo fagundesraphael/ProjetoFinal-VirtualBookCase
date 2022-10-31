@@ -1,0 +1,62 @@
+.add-book-container {
+  width: 100%;
+  max-width: 1120px;
+  height: 100vh;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.add-book-container .content {
+  width: 100%;
+  padding: 75px;
+  background: #f2f2f2;
+  box-shadow: 0 0 100px rgb(0, 0, 0, 0.3);
+  border-radius: 8px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.add-book-container .content section {
+  width: 100%;
+  max-width: 380px;
+}
+
+.add-book-container section.form {
+  width: 100%;
+  max-width: 350px;
+}
+
+.add-book-container section.form img {
+  width: 65%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+.add-book-container .content section h1 {
+  color: #212940;
+  margin: 64px 0 32px;
+  font-size: 32px;
+}
+
+.add-book-container .content section p {
+  font-size: 20px;
+  color: #5c6273;
+  line-height: 30px;
+}
+
+.add-book-container .content form {
+  width: 100%;
+  max-width: 450px;
+}
+
+.add-book-container .content form input {
+  margin-top: 8px;
+}
+
+.add-book-container .content a {
+  color: #4e63d9;
+}
