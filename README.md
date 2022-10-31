@@ -7,8 +7,8 @@ O objetivo do projeto foi criar uma loja online de livros usados, como um sebo, 
 
 ### Screenshot
 
-![](./public/print1.png)
-![](./public/print2.png)
+![](./client/public/print1.png)
+![](./client/public/print2.png)
 
 ### Linguagens utilizadas
 
