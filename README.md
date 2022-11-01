@@ -1,8 +1,9 @@
 # Projeto Final - #TransformaTec
 
 <p>
-Esse projeto foi desenvolvido colocando em prática os conhecimentos adquiridos ao longo do programa TransformaTec da <b>Digital Innovation One</b>.
-O objetivo do projeto foi criar uma loja online de livros usados, como um sebo,  utilizando as tecnologias de <b>HTML</b>, <b>CSS</b> e <b>React</b> para criar toda parte visual do <i>FrontEnd</i>. No <i>BackEnd<i/> foi criada uma API com <b>Java - Spring Boot</b>. Uma interface simples e intuitiva que também conta com login e permissões de usuários.
+Nossa missão foi criar uma aplicação FullStack, utilizando todo o conhecimento adquirido ao longo do programa.
+    Como todo apaixonado por livros, às vezes me deparo com um problema comum - onde armazená-los? Uma das soluções é vende-los em um sebo, você ganha uma graninha para comprar mais livros e ainda libera espaço na sua estante, show, né?! Foi pensando nisso que desenvolvi o meu projeto, um sebo virtual, onde você pode anunciar todos os livros que quiser.
+    O <i>frontend</i> do projeto foi desenvolvido utilizando <b>HTML</b>, <b>CSS</b> e <b>React</b>. O projeto todo é no formato <i>"single page application"<i/>, que traz mais fluidez proporcionando uma melhor experiência ao usuário. No <i>backend</i> foi utilizado <b>Java</b> e <b>Spring Boot</b> para desenvolver uma API REST, que dispõe de vários recursos incluindo autenticação de usuários com o JWT.
 </p>
 
 ### Screenshot
